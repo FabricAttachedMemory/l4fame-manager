@@ -1,3 +1,9 @@
+l4fame-manager (0.2) unstable; urgency=medium
+
+  * Add tm-lmp and tm-utils
+
+ -- Keith Packard <keithp@keithp.com>  Mon, 28 Aug 2017 10:21:03 -0700
+
 l4fame-manager (0.1) unstable; urgency=low
 
   * Initial release.
